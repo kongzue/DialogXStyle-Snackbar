@@ -1,2 +1,1 @@
-include ':Snackbar'
 rootProject.name = "Snackbar"
