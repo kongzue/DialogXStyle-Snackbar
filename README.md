@@ -2,7 +2,7 @@
 
 此主题包适用于 [DialogX](https://github.com/kongzue/DialogX) 框架的 PopTip 组件，提供 Snackbar 样式（含亮、暗色）
 
-![Snackbar](readme\SnakebarStyle.png)
+![Snackbar](https://raw.githubusercontent.com/kongzue/DialogXStyle-Snackbar/master/readme/SnakebarStyle.png)
 
 ## 使用方式
 
