@@ -6,7 +6,7 @@
 
 ## 使用方式
 
-警告：此主题包需要您升级 DialogX 的版本至 0.0.34.beta1 测试版以上的版本。
+警告：此主题包需要您升级 DialogX 的版本至 0.0.35 以上的版本。
 
 1. 进入 build.gradle(Project) 文件，在`allprojects`代码快添加：
 
@@ -25,7 +25,7 @@
 2. 在 build.gradle(app) 文件引入主题资源：
 
    ```
-   implementation 'com.github.kongzue:DialogXStyle-Snackbar:1.0.4'
+   implementation 'com.github.kongzue:DialogXStyle-Snackbar:1.0.5'
    ```
 
 3. 找到 DialogX.globalStyle 设置，没有可以直接使用 MaterialStyle，如果有设置其他的主题，可使用该主题 Style 替代下边代码中的 MaterialStyle，重写 popTipSettings 即可完成设置：
