@@ -25,7 +25,7 @@
 2. 在 build.gradle(app) 文件引入主题资源：
 
    ```
-   implementation 'com.github.kongzue:DialogXStyle-Snackbar:1.0.5'
+   implementation 'com.github.kongzue:DialogXStyle-Snackbar:1.0.6'
    ```
 
 3. 找到 DialogX.globalStyle 设置，没有可以直接使用 MaterialStyle，如果有设置其他的主题，可使用该主题 Style 替代下边代码中的 MaterialStyle，重写 popTipSettings 即可完成设置：
